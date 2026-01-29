@@ -1,0 +1,24 @@
+So today’s discussion started a bit late because half the team joined late.
+We spoke first about the Alpha project status, and there was some confusion
+around who is doing what. John mentioned casually that he will probably
+finish the report by Friday if there are no more changes from management,
+but this was not clearly decided earlier.
+
+There was a long discussion around UI issues. The design team should take
+another look at the mockups before the next sprint starts because some
+stakeholders were not happy with the current version. No final deadline
+was fixed, but it needs attention soon.
+
+HR also joined midway and said something about onboarding. Apparently the
+onboarding documentation is outdated, and HR must update it for new hires,
+especially since more interns are joining next month.
+
+At some point, someone suggested that we need to schedule another meeting
+next week just to clear the confusion around deliverables. No one objected,
+so a follow-up meeting needs to be scheduled sometime next week.
+
+Marketing talked for a while about Q2 campaigns, budgets, and social media,
+but nothing actionable came out of that discussion today.
+
+Before wrapping up, there was a reminder that if anyone notices missing
+details in the report, they should inform John as soon as possible.
